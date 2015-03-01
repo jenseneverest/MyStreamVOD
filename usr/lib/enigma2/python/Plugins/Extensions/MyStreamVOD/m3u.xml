@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>M3U list</playlist_name>
+	<channel>
+			<title>iptv1.m3u</title>
+			<playlist_url><![CDATA[nStreamModul@iptv1.m3u@m3u@iptv1.]]></playlist_url>
+	</channel>
+	<channel>
+			<title>iptv2.m3u</title>
+			<playlist_url><![CDATA[nStreamModul@iptv2.m3u@m3u@iptv2.]]></playlist_url>
+	</channel>
+	<channel>
+			<title>iptv3.m3u</title>
+			<playlist_url><![CDATA[nStreamModul@iptv3.m3u@m3u@iptv3.]]></playlist_url>
+	</channel>
+	<channel>
+			<title>iptv4.m3u</title>
+			<playlist_url><![CDATA[nStreamModul@iptv4.m3u@m3u@iptv4.]]></playlist_url>
+	</channel>
+	<channel>
+			<title>iptv5.m3u</title>
+			<playlist_url><![CDATA[nStreamModul@iptv5.m3u@m3u@iptv5.]]></playlist_url>
+	</channel>
+</items>

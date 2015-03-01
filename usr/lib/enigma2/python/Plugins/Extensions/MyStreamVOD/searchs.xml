@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+  <playlist_name>nSearchs</playlist_name>
+  	
+  	<channel>       
+		<title><![CDATA[nVkontakte Search]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[<img src="vkontakte_video_logo.png">vkontakte]]></description>
+		<playlist_url><![CDATA[nStreamModul@vkontaktesearch@start@VK SEARCH]]></playlist_url>
+	</channel>
+	
+	<channel>       
+		<title><![CDATA[Youtube Search]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[<img src="youtube.png">]]></description>
+		<playlist_url><![CDATA[nStreamModul@youtubesearch@1@0@start@0@youtube]]></playlist_url>
+	 </channel>
+	 
+	 <channel>
+		<title>Поисковик музыки by SashaGamliy</title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[Для работы модуля установите модули от 25.01.13, которые находятся на сайте giclub.tv]]></description>
+		<playlist_url><![CDATA[ nStreamModul@zvukoff.ru@start@Поисковик музыки ]]></playlist_url>
+	</channel>
+	
+	<channel>
+		<title>Youtube search(чешский)</title>
+		<playlist_url>http://netplayer.tym.cz/xml/nstream/youtube.php</playlist_url>
+		<description><![CDATA[]]></description>
+		<category_id>1</category_id>
+	</channel>
+	
+	<channel>
+  		<title><![CDATA[Поисковик по нескольким сайтам]]></title>
+  		<playlist_url><![CDATA[http://gegen-abzocke.com/xml/nstrim/globalsearch.php]]></playlist_url>
+  		<logo_30x30><![CDATA[ http://taba.ru/id127542/file/8749 ]]></logo_30x30>
+  		<description><![CDATA[<center><img src='http://taba.ru/id127542/file/8749'/>Поиск по onlinefilmx.ru onlyfilms.ru narkom.su film-online.su</center>]]></description>
+	</channel>
+  	
+  	<channel>
+		<title>Поисковик kinoprosmotr</title>
+		<logo_30x30>http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png</logo_30x30>
+		<description><![CDATA[<center><img src='http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png'/>Поиск по названию</center>]]></description>
+		<playlist_url><![CDATA[http://gegen-abzocke.com/xml/nstrim/kinoprosmotr/search.php]]></playlist_url>
+	</channel>
+  	
+  	<channel>
+		<title>Поисковик uakino.net</title>
+		<logo_30x30>http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png</logo_30x30>
+		<description><![CDATA[<center><img src='http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png'/>Поиск по названию</center>]]></description>
+		<playlist_url><![CDATA[http://gegen-abzocke.com/xml/nstrim/uakino/search.php]]></playlist_url>
+	</channel>
+	 
+	 <channel>
+		<title>Поисковик linecinema.org</title>
+		<logo_30x30>http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png</logo_30x30>
+		<description><![CDATA[<center><img src='http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png'/>Поиск по названию</center>]]></description>
+		<playlist_url><![CDATA[http://gegen-abzocke.com/xml/nstrim/linecinema/search.php]]></playlist_url>
+	</channel>
+	 
+	 <channel>
+	 	<title>Поисковик stepashka.com</title>
+		<logo_30x30>http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png</logo_30x30>
+		<description><![CDATA[<center><img src='http://toolsource.to.funpic.de/content/QuickSearch_Symbol.png'/>Поиск по названию</center>]]></description>
+		<playlist_url><![CDATA[http://gegen-abzocke.com/xml/nstrim/stepashka/search.php]]></playlist_url>
+	 </channel>
+</items>

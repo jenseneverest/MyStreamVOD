@@ -1,0 +1,376 @@
+#EXTM3U
+
+#EXTINF:-1,AZTECA NOTICIAS By 
+http://vid1.streaming-hub.com:8080/bein1.m3u8
+
+#EXTINF:-1,Azteca Corazon HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Azteca Corazon HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=480&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AXN HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AXN HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=110&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,A&e HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,A&E HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=106&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,AMC HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Animal Planet HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3
+
+#EXTINF:-1,Animal Planet HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BANDAMAX HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=450&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,BBC ENTRETAINMENT HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=130&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,C SAT Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Canal ONCE HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=061&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, 1 CLASSIC By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=477&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CINECANAL HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, Cine Canal HD Sub (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CINE CANAL HD Sub (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=310&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Cartoon Network HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=222&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=118&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Comedy Central Hd (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Comedia Mexico By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=174&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CASA HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=182&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,CBEEBIES HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=198&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Cinemax Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DP PELICULA HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=326&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DP Peliculas HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u
+
+#EXTINF:-1,Discovery Turbo Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Discovery Civilizacion Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=282&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Discovery Science Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Discovery Theater Hd Sub (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=241&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER HD Sub (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=242&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Disney Channel Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=210&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Discovery Investigation Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=154&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Discovery Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=258&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=194&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISNEY JR HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=202&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,DISNEY XD HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=226&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESTRELLA HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, E! HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=134&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, EL 5 TV HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=037&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,EDGE HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=362&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,EDGE HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=362&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN Football HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN NCA HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 2 Deporte Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 2 Deporte Hd (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 3 Deporte Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ESPN 3 Deporte Hd (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=394&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, FILM ZONE HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=322&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Film Zone Hd (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=324&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Classics Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX CINEMA HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=338&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX FAMILY HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX1 HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX ACTION HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Action Hd (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Movies HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=306&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FX-D HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FX HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=146&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=86&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FOX LIFE HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=170&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Deporte HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Sports SD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=400&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Sports HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox 1 HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Sports 2 HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Golden HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GOLDEN HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=318&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GLITZ By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=166&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,GORUMET HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=162&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,H&H Discovery Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=266&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,HMX HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=473&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Historia Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,INFINITO HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=158&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ISAT HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=378&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ID INVESTIGETION DISCOVERY HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=154&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,LIFETIME HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=274&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,M-TV LIVE Music HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=430&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,M-TV By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=442&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,M-TV Hits Music Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nick By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=218&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nick HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=214&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nick HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nick Jr Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=206&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nick Toons Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Nat Geo Wild Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NATGEO WILD HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,PX HITS tv By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,QG5 HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,RITMOSON By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=446&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SONY HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=90&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,SYFY By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Space By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=370&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Space HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=334&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Totalplay HD (OP1) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=458&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Totalplay HD(OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TCM By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TVE Internacional By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=421&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TRU tv HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=114&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TRU tv HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TRECE HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=065&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TELENOVELAS By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=186&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TBS By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=178&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TLC HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=254&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TLC By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=290&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=314&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT HD (OP3) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=358&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TCM By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TIIN By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TELEHIT HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=434&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ToonCast Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=238&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Tiin By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,U-tv By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=122&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, STUDIO Universal By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNIVERSAL Channel HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=098&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNIVERSAL Channel HD (OP2) By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=097&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Universal Channel Hd By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=138&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,UNICABLE TV HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,VH Music HD By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=438&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,WOBI Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=294&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,WARNER BROSS HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=093&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,WARNER HD Sub By 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&rows=40&f=.m3u8
