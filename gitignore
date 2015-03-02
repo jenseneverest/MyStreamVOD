@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyo
+*~
+#*.tar.gz
+*.txt
+*.xcf
+*.db
+zap*
+DEADJOE
+*.sh4
+*.ppc
+*.x86
+*.log
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
